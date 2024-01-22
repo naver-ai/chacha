@@ -20,7 +20,7 @@ export const Cite = () => {
         </div>
         <div className="mt-4">
             <div className="font-bold mb-1">BibTeX</div>
-            <pre className={"p-3 font-mono text-xs sm:text-sm bg-slate-700/10 decoration-none break-words text-wrap"}>{bibTex}</pre>
+            <pre className={"p-3 font-mono text-xs sm:text-sm border-[1px] rounded-lg border-slate-300 decoration-none break-words text-wrap"}>{bibTex}</pre>
         </div>
         
     </Section>

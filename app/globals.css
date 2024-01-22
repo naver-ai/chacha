@@ -12,8 +12,8 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: #575757;
-    --background-start-rgb: #f0f3f4;
-    --background-end-rgb: #ddebe9;
+    --background-start-rgb: #f6f8f8;
+    --background-end-rgb: #eef3f2;
   }
 }
 
@@ -30,5 +30,13 @@ body {
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+
+  p {
+    @apply text-lg font-light;
+  }
+
+  .circle-digit{
+    @apply rounded-full bg-white border-2 border-gray-500 w-6 h-6 text-sm font-semibold inline-block text-center items-center;
   }
 }

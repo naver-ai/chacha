@@ -3,7 +3,7 @@ export const Section = (props: {
     children?: any
 }) => {
     return <div className="pt-8 pb-8">
-        <div className="text-3xl font-light text-slate-600 mb-4">{props.title}</div>
+        <div className="section-title text-3xl font-light text-[#4592ec] mb-4">{props.title}</div>
         {
             props.children
         }
