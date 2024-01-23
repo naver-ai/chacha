@@ -22,6 +22,16 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      animation: {
+        'screen-scroll': 'screenScrollUpDown 17s ease-in-out infinite'
+      },
+      keyframes: {
+        screenScrollUpDown: {
+          '0% 30%': {transform: 'translateY(0)'},
+          '50%': {transform: "translateY(-33%)"},
+          '70% 100%': {transform: 'translateY(0)'},
+        } 
+      }
     },
   },
   plugins: [],
