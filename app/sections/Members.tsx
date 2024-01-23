@@ -45,7 +45,7 @@ export const Members = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
         {
             members.map(member => {
-                return <div className="flex items-center">
+                return <div key={member.name} className="flex items-center">
                     <div className="relative w-[120px] h-[120px] rounded-full overflow-hidden">
                         <Image alt={`Thumbnail of ${member.name}`} src={member.thumb} fill={true}/>
                     </div>

@@ -9,7 +9,7 @@ const bibTex = "@inproceedings{seo2024chacha,\n\
     address = {New York, NY, USA},\n\
     booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},\n\
     location = {Honolulu, HI, USA},\n\
-    series = {CHI '24}\n\
+    series = {CHI'24}\n\
     }"
 
 export const Cite = () => {
@@ -17,7 +17,7 @@ export const Cite = () => {
         <div className="border-y-[1px] border-slate-400 py-3">
             <div>Woosuk Seo, Chanmo Yang, and Young-Ho Kim. 2024.</div>
             <div className="font-bold">ChaCha: Leveraging Large Language Models to Prompt Children to Share Their Emotions about Personal Events.</div>
-            <div>In <i>Proceedings of ACM CHI Conference on Human Factors in Computing Systems</i> (CHI'24). To appear.</div>
+            <div>In <i>Proceedings of ACM CHI Conference on Human Factors in Computing Systems</i> (CHI&apos;24). To appear.</div>
         </div>
         <div className="mt-4">
             <div className="font-bold mb-1">BibTeX</div>
