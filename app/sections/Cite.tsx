@@ -4,9 +4,10 @@ const bibTex = "@inproceedings{seo2024chacha,\n\
     author = {Seo, Woosuk and Yang, Chanmo and Kim, Young-Ho},\n\
     title = {ChaCha: Leveraging Large Language Models to Prompt Children to Share Their Emotions about Personal Events},\n\
     year = {2024},\n\
+    doi = {10.1145/3613904.3642152},\n\
     publisher = {Association for Computing Machinery},\n\
     address = {New York, NY, USA},\n\
-    booktitle = {Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},\n\
+    booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},\n\
     location = {Honolulu, HI, USA},\n\
     series = {CHI '24}\n\
     }"

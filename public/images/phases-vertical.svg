@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 494.8 524.7" enable-background="new 0 0 494.8 524.7" xml:space="preserve">
+<path fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" d="M468.9,122.8H358.1c-2.8,0-5-2.3-5-5V9.5
+	c0-2.8,2.3-5,5-5h110.8c2.8,0,5,2.3,5,5v108.3C473.9,120.5,471.7,122.8,468.9,122.8z"/>
+<g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M53.2,348.9c0,60.7,75.6,26,75.6,68.8c0,1.9,0,3.9,0,6.1"/>
+		<g>
+			<polygon points="124.3,422.5 128.8,430.3 133.3,422.5 			"/>
+		</g>
+	</g>
+</g>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M305.8,348.9c0,50.3-177,23.5-177,66.3c0,3.7,0,3.4,0,8.3"/>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="128.8" y1="34.5" x2="128.8" y2="128.8"/>
+		<g>
+			<polygon points="124.3,127.4 128.8,135.2 133.3,127.4 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="389.1" y1="88.1" x2="412.2" y2="88.1"/>
+		<g>
+			<polygon points="411.3,91.1 416.5,88.1 411.3,85.2 			"/>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="305.8" y1="333" x2="305.8" y2="289"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="53.2" y1="333" x2="53.2" y2="289"/>
+<path fill="#9D62A8" d="M151,75.4h-44.4c-6.9,0-12.5-5.6-12.5-12.5v0c0-6.9,5.6-12.5,12.5-12.5H151c6.9,0,12.5,5.6,12.5,12.5v0
+	C163.5,69.8,157.9,75.4,151,75.4z"/>
+<text transform="matrix(1 0 0 1 108.6165 66.4077)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="12px">Explore</text>
+<g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M128.1,199.2c0,49.3,175.9,0.7,177.6,63.6"/>
+		<g>
+			<polygon points="301.2,261.3 305.4,269.3 310.2,261.7 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 171.3474 66.4076)" font-family="'Roboto-Italic'" font-size="11px">Explore key event of the child.</text>
+<text transform="matrix(1 0 0 1 -882.334 407.1597)"><tspan x="0" y="0" fill="#6D6E71" font-family="'Roboto-Italic'" font-size="11px">User’s </tspan><tspan x="0" y="13" fill="#6D6E71" font-family="'Roboto-Italic'" font-size="11px">name &amp; age</tspan></text>
+<path fill="#90C73E" d="M151,160.2h-44.4c-6.9,0-12.5-5.6-12.5-12.5v0c0-6.9,5.6-12.5,12.5-12.5H151c6.9,0,12.5,5.6,12.5,12.5v0
+	C163.5,154.6,157.9,160.2,151,160.2z"/>
+<text transform="matrix(1 0 0 1 114.1595 151.2089)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="12px">Label</text>
+<path fill="#58595B" d="M391.6,31h-18c-4.5,0-8.2-3.6-8.2-8.2v0c0-4.5,3.6-8.2,8.2-8.2h18c4.5,0,8.2,3.6,8.2,8.2v0
+	C399.8,27.4,396.1,31,391.6,31z"/>
+<text transform="matrix(1 0 0 1 422.624 90.7704)" font-family="'Roboto-Medium'" font-size="11px">Yes</text>
+<text transform="matrix(1 0 0 1 422.624 108.6539)" font-family="'Roboto-Medium'" font-size="11px">No</text>
+<text transform="matrix(1 0 0 1 404.4351 26.8641)" font-family="'Roboto-Medium'" font-size="11px">Chat Phase</text>
+<text transform="matrix(1 0 0 1 406.9528 50.0722)"><tspan x="0" y="0" font-family="'Roboto-Medium'" font-size="11px">Test on </tspan><tspan x="0" y="13" font-family="'Roboto-Medium'" font-size="11px">every turn</tspan></text>
+<path fill="#CA5576" d="M328,295h-44.4c-6.9,0-12.5-5.6-12.5-12.5l0,0c0-6.9,5.6-12.5,12.5-12.5H328c6.9,0,12.5,5.6,12.5,12.5l0,0
+	C340.5,289.4,334.9,295,328,295z"/>
+<text transform="matrix(1 0 0 1 294.1715 286.0549)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="12px">Find</text>
+<g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M131.7,459c0,0,0,3.3,0,7.4s4.9,7.4,11,7.4h254.5"/>
+		<g>
+			<polygon points="395.9,478.3 403.7,473.8 395.9,469.3 			"/>
+		</g>
+	</g>
+</g>
+<polygon fill="#E1BEDA" stroke="#9D62A8" stroke-miterlimit="10" points="142.8,91.7 114.9,91.7 109.2,101.6 114.9,111.5 
+	142.8,111.5 148.5,101.6 "/>
+<text transform="matrix(1 0 0 1 117.6497 104.9988)" font-family="'Roboto-Bold'" font-size="10px">Test</text>
+<rect x="185" y="97.1" fill="none" width="126.9" height="30.7"/>
+<text transform="matrix(1 0 0 1 184.99 105.3462)" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">Identified key event?</text>
+<rect x="315.5" y="240.1" fill="none" width="116.4" height="25.3"/>
+<text transform="matrix(1 0 0 1 315.5075 248.3876)"><tspan x="0" y="0" font-family="'Roboto-Italic'" font-size="11px">If negative emotions </tspan><tspan x="0" y="13" font-family="'Roboto-Italic'" font-size="11px">spotted</tspan></text>
+<rect x="70.7" y="241.8" fill="none" width="78.9" height="39.7"/>
+<text transform="matrix(1 0 0 1 70.7223 250.0843)"><tspan x="0" y="0" font-family="'Roboto-Italic'" font-size="11px">If positive </tspan><tspan x="0" y="13" font-family="'Roboto-Italic'" font-size="11px">emotions only</tspan></text>
+<g>
+	<g>
+		<path fill="none" stroke="#808285" stroke-miterlimit="10" stroke-dasharray="3,2" d="M109.2,101.8H64.4c-6.1,0-11-4.9-11-11V73.9
+			c0-6.1,4.9-11,11-11h23.2"/>
+		<g>
+			<polygon fill="#808285" points="86.4,67.4 94.2,62.9 86.4,58.4 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="none" stroke="#808285" stroke-miterlimit="10" stroke-dasharray="3,2" d="M109.2,186.7H64.4c-6.1,0-11-5-11-11v-16.9
+			c0-6,4.9-11,11-11h23.2"/>
+		<g>
+			<polygon fill="#808285" points="86.4,152.3 94.2,147.8 86.4,143.3 			"/>
+		</g>
+	</g>
+</g>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" points="390.6,81.8 372,81.8 368.2,88.4 372,95.1 390.6,95.1 
+	394.4,88.4 "/>
+<text transform="matrix(1 0 0 1 373.8205 90.7037)" font-family="'Roboto-Bold'" font-size="6.6752px">Test</text>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" points="395.5,45.1 371.5,45.1 366.6,53.2 371.5,61.3 395.5,61.3 
+	400.4,53.2 "/>
+<text transform="matrix(1 0 0 1 373.8971 56.1169)" font-family="'Roboto-Bold'" font-size="8.5932px">Test</text>
+<g>
+	<g>
+		<path fill="none" stroke="#808285" stroke-miterlimit="10" stroke-dasharray="3,2" d="M381.3,95.1c0,0,0,2.4,0,5.2
+			c0,2.9,5,5.2,11,5.2h19.9"/>
+		<g>
+			<polygon fill="#808285" points="411.3,108.5 416.5,105.6 411.3,102.6 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M53.2,262.8c2.8-42.3,74.9-15,74.9-63.6v-39"/>
+		<g>
+			<polygon points="57.9,261.5 53.3,269.3 48.9,261.5 			"/>
+		</g>
+	</g>
+</g>
+<polygon fill="#CADD85" stroke="#80A43F" stroke-miterlimit="10" points="142.8,176.7 114.9,176.7 109.2,186.7 114.9,196.6 
+	142.8,196.6 148.5,186.7 "/>
+<text transform="matrix(1 0 0 1 117.6497 190.0554)" font-family="'Roboto-Bold'" font-size="10px">Test</text>
+<rect x="185" y="182" fill="none" width="145.5" height="52.8"/>
+<text transform="matrix(1 0 0 1 184.99 190.2697)"><tspan x="0" y="0" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">Identified and commented on </tspan><tspan x="0" y="13" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">all associated emotions?</tspan></text>
+<polygon fill="#F3AEB5" stroke="#CA5576" stroke-miterlimit="10" points="319.7,328.6 291.8,328.6 286.1,338.5 291.8,348.4 
+	319.7,348.4 325.4,338.5 "/>
+<text transform="matrix(1 0 0 1 294.5816 341.8951)" font-family="'Roboto-Bold'" font-size="10px">Test</text>
+<rect x="366.6" y="334.7" fill="none" width="97.9" height="43.5"/>
+<text transform="matrix(1 0 0 1 366.6018 342.989)"><tspan x="0" y="0" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">Found actionable </tspan><tspan x="0" y="13" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">solutions for all </tspan><tspan x="0" y="26" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">labeled emotions?</tspan></text>
+<rect x="169.8" y="424.6" fill="none" width="111.2" height="46.4"/>
+<text transform="matrix(1 0 0 1 169.7705 432.89)"><tspan x="0" y="0" font-family="'Roboto-Italic'" font-size="11px">Ask and discuss the </tspan><tspan x="0" y="13" font-family="'Roboto-Italic'" font-size="11px">idea of sharing the </tspan><tspan x="0" y="26" font-family="'Roboto-Italic'" font-size="11px">emotions with parents.</tspan></text>
+<rect x="407.1" y="470.1" fill="none" width="111.2" height="21.3"/>
+<text transform="matrix(1 0 0 1 407.0908 478.3251)" font-family="'Roboto-Italic'" font-size="11px">Move to Explore</text>
+<g>
+	<rect x="307.8" y="442.1" fill="none" width="101.5" height="29.3"/>
+	<text transform="matrix(1 0 0 1 307.7987 450.316)"><tspan x="0" y="0" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">The child wants to </tspan><tspan x="0" y="13" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">share a new event?</tspan></text>
+</g>
+<g>
+	<rect x="110.2" y="509.8" fill="none" width="35.8" height="45.2"/>
+	<text transform="matrix(1 0 0 1 119.0536 518.0673)" font-family="'Roboto-Bold'" font-size="11px">End</text>
+</g>
+<rect x="347.1" y="278.2" fill="none" width="151.7" height="43.8"/>
+<text transform="matrix(1 0 0 1 347.1235 286.4519)"><tspan x="0" y="0" font-family="'Roboto-Italic'" font-size="11px">Come up with solutions </tspan><tspan x="0" y="13" font-family="'Roboto-Italic'" font-size="11px">to mitigate negative emotions </tspan><tspan x="0" y="26" font-family="'Roboto-Italic'" font-size="11px">or to resolve the cause.</tspan></text>
+<line fill="none" stroke="#808285" stroke-miterlimit="10" stroke-dasharray="3,2" x1="128.1" y1="457.2" x2="128.1" y2="485.8"/>
+<circle cx="128.1" cy="495.8" r="9.5"/>
+<g>
+	<rect x="88" y="8" fill="none" width="81.6" height="45.2"/>
+	<text transform="matrix(1 0 0 1 116.7844 16.2113)" font-family="'Roboto-Bold'" font-size="11px">Start</text>
+</g>
+<circle cx="128.8" cy="30.6" r="9.5"/>
+<g>
+	<g>
+		<path fill="none" stroke="#808285" stroke-miterlimit="10" stroke-dasharray="3,2" d="M284.9,339h-22.6c-2.5,0-4.6-2.6-4.6-5.9
+			v-44.7c0-3.2,2.1-5.9,4.6-5.9h2.3"/>
+		<g>
+			<polygon fill="#808285" points="263.3,287 271.1,282.5 263.3,278.1 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="none" stroke="#808285" stroke-miterlimit="10" stroke-dasharray="3,2" d="M32.1,339H9.5c-2.5,0-4.6-2.6-4.6-5.9v-44.7
+			c0-3.2,2.1-5.9,4.6-5.9h2.3"/>
+		<g>
+			<polygon fill="#808285" points="10.5,287 18.3,282.5 10.5,278.1 			"/>
+		</g>
+	</g>
+</g>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M325.4,338.5"/>
+<rect x="160.6" y="95.2" fill="#9D62A8" width="18.8" height="13"/>
+<text transform="matrix(1 0 0 1 164.0569 105.1132)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="10px">T1</text>
+<rect x="160.6" y="180.2" fill="#90C73E" width="18.8" height="13"/>
+<text transform="matrix(1 0 0 1 164.057 190.0394)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="10px">T2</text>
+<rect x="343.7" y="332.5" fill="#CA5576" width="18.8" height="13"/>
+<text transform="matrix(1 0 0 1 347.1155 342.3464)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="10px">T3</text>
+<path fill="#A5684F" d="M75.4,295H31c-6.9,0-12.5-5.6-12.5-12.5l0,0c0-6.9,5.6-12.5,12.5-12.5h44.4c6.9,0,12.5,5.6,12.5,12.5l0,0
+	C87.8,289.4,82.3,295,75.4,295z"/>
+<path fill="#A5684F" d="M75.4,295H31c-6.9,0-12.5-5.6-12.5-12.5l0,0c0-6.9,5.6-12.5,12.5-12.5h44.4c6.9,0,12.5,5.6,12.5,12.5l0,0
+	C87.8,289.4,82.3,295,75.4,295z"/>
+<text transform="matrix(1 0 0 1 33.9986 286.0549)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="12px">Record</text>
+<text transform="matrix(1 0 0 1 33.9986 286.0549)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="12px">Record</text>
+<polygon fill="#E1C2AF" stroke="#A5684F" stroke-miterlimit="10" points="67.4,328.6 39.5,328.6 33.8,338.5 39.5,348.4 67.4,348.4 
+	73.1,338.5 "/>
+<text transform="matrix(1 0 0 1 42.2622 341.8951)" font-family="'Roboto-Bold'" font-size="10px">Test</text>
+<rect x="111.9" y="333.1" fill="none" width="140" height="43.6"/>
+<text transform="matrix(1 0 0 1 111.9241 341.3845)"><tspan x="0" y="0" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">Explained the importance of </tspan><tspan x="0" y="13" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">keeping diaries &amp; provided </tspan><tspan x="0" y="26" fill="#F5834B" font-family="'Roboto-Italic'" font-size="11px">example diary entry?</tspan></text>
+<rect x="94.2" y="278.2" fill="none" width="146.8" height="43.8"/>
+<text transform="matrix(1 0 0 1 94.1512 286.4519)"><tspan x="0" y="0" font-family="'Roboto-Italic'" font-size="11px">Discuss the experience and </tspan><tspan x="0" y="13" font-family="'Roboto-Italic'" font-size="11px">the benefits of recording </tspan><tspan x="0" y="26" font-family="'Roboto-Italic'" font-size="11px">positive memories.</tspan></text>
+<rect x="90.2" y="330.9" fill="#A5684F" width="18.8" height="13"/>
+<text transform="matrix(1 0 0 1 93.6859 340.8212)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="10px">T4</text>
+<g>
+	<g>
+		<line fill="none" stroke="#6D6E71" stroke-miterlimit="10" x1="-861.3" y1="424.8" x2="-861.3" y2="446.5"/>
+		<g>
+			<polygon fill="#6D6E71" points="-865.4,443.2 -864.7,442.5 -861.3,446.2 -857.9,442.5 -857.2,443.2 -861.3,447.6 			"/>
+		</g>
+	</g>
+</g>
+<path fill="#5E95CF" d="M152.1,456.7h-44.4c-6.9,0-12.5-5.6-12.5-12.5v0c0-6.9,5.6-12.5,12.5-12.5h44.4c6.9,0,12.5,5.6,12.5,12.5v0
+	C164.6,451.1,159,456.7,152.1,456.7z"/>
+<text transform="matrix(1 0 0 1 114.2152 447.7375)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="12px">Share</text>
+<rect x="170" y="135.2" fill="none" width="189.4" height="30.9"/>
+<text transform="matrix(1 0 0 1 170.0189 143.4659)"><tspan x="0" y="0" font-family="'Roboto-Italic'" font-size="11px">Identify &amp; label emotions/feelings </tspan><tspan x="0" y="13" font-family="'Roboto-Italic'" font-size="11px">arose in the event.</tspan></text>
+</svg>

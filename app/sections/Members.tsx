@@ -54,5 +54,11 @@ export const Members = () => {
             })
         }
         </div>
+        <div className="mt-8 flex items-center gap-6">
+            <Image className="w-[200px]" alt="NAVER logo" src={require("../../public/images/logos/ai_lab_logo_vertical.png")} width={1728} height={552}/>
+            <Image className="w-20" alt="UMSI logo" src={require("../../public/images/logos/umsi-logo.svg")} unoptimized={true}/>
+            <Image className="w-[250px]" alt="Wonkwang logo" src={require("../../public/images/logos/wonkwang-logo.svg")} unoptimized={true}/>
+            
+        </div>
     </Section>
 }
