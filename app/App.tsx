@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Members } from "./sections/Members";
 import { Acknowledgments } from "./sections/Acknowledgments";
 import { Cite } from "./sections/Cite";
@@ -7,9 +6,9 @@ import { Footer } from "./sections/Footer";
 import { Architecture } from "./sections/Architecture";
 import { Mockup } from "./sections/Mockup";
 
-export default function Home() {
+export function App() {
   return (<>
-    <main className="container mx-auto min-h-screen px-3 pt-6">
+    <main className="container mx-auto px-4 sm:px-12 pt-6">
       <div>
         <div className="font-bold text-lg text-[#ff9164] mb-3">ACM CHI 2024 Paper</div>
         <div className="text-4xl mb-2 font-bold text-[#f45e9b]">ChaCha</div> 
