@@ -27,16 +27,31 @@ body {
     var(--background-start-rgb);
 }
 
+@layer base{
+  p {
+    @apply text-lg font-light;
+  }
+}
+
+@layer components {
+  .circle-digit{
+    @apply rounded-full bg-white border-2 border-gray-500 w-6 h-6 text-sm font-semibold inline-block text-center items-center;
+  }
+
+  .icon-label-button{
+    @apply flex items-center transition-transform hover:scale-110 bg-slate-500 shadow-md hover:shadow-xl rounded-full px-2 pr-4 py-2 h-11;
+    
+  }
+
+  .icon-label-button > span {
+    @apply ml-2 font-semibold text-white;
+  }
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
 
-  p {
-    @apply text-lg font-light;
-  }
-
-  .circle-digit{
-    @apply rounded-full bg-white border-2 border-gray-500 w-6 h-6 text-sm font-semibold inline-block text-center items-center;
-  }
+   
 }
