@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "rm -rf dist && parcel index.html --port 3000 --open",
-    "build": "rm -rf dist && parcel build index.html --public-url https://naver-ai.github.io/chacha",
+    "build": "rm -rf dist && rm -rf .parcel-cache && rm -rf .cache && parcel build index.html --public-url https://naver-ai.github.io/chacha",
     "predeploy": "npm run build",
     "deploy": "gh-pages -f -d dist"
   },
