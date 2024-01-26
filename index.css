@@ -28,8 +28,17 @@ body {
 }
 
 @layer base{
+  body {
+    @apply font-Nunito;
+  }
+
   p {
     @apply text-lg font-light;
+  }
+
+  pre {
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
 }
 

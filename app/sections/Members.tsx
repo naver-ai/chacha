@@ -64,7 +64,7 @@ export const Members = () => {
             })
         }
         </div>
-        <div className="mt-8 flex items-center gap-6">
+        <div className="mt-8 flex items-center gap-6 gap-y-8 flex-wrap">
             <img className="w-[200px]" alt="NAVER logo" src={require("../../public/images/logos/ai_lab_logo_vertical.png")} width={1728} height={552}/>
             <a href="https://www.si.umich.edu/" target="_blank"><img className="w-20" alt="UMSI logo" src={require("../../public/images/logos/umsi-logo.svg")}/></a>
             <a href="https://global.wkuh.org/" target="_blank"><img className="w-[250px]" alt="Wonkwang logo" src={require("../../public/images/logos/wonkwang-logo.svg")}/></a>
