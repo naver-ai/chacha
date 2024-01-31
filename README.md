@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ChaCha Project Website
 
-## Getting Started
+https://naver-ai.github.io/chacha/
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## How to Run
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Prerequisite
+* Node.js (tested on 18.17.0) - Recommend to use [nvm](https://github.com/nvm-sh/nvm).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Running Website on Development Mode
+1. Install dependencies
+   ```sh
+   > npm install
+   ```
+2. Run development server
+   ```sh
+   > npm run dev
+   ```
+3. If a web browser does not open automatically, visit `http://localhost:3000`.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Modifying Web Page Content
+- Start editing `./app/App.tsx`. This React component defines the basic content structure of the main page.
+- `./app/sections/` directory contains individual subsections of the main page.
+- For any PDF files for your preprint, put them in `./public/`. The name can be artibrary. The build processor will automatically grab all PDF fils in that directory. On webpage, link them with a relative URL like `./public/[FILE_NAME]`. Refer to `./app/sections/Abstract.tsx` for example.
 
-## Learn More
+### Deploying Website to Github Pages
+1. Change public url in `package.json`:
+   ```json
+    "build": "rm -rf dist && rm -rf .parcel-cache && rm -rf .cache && parcel build index.html ./public/*.pdf --public-url https://naver-ai.github.io/chacha",
+   ```
+   Replace the public-url argument value 'https://naver-ai.github.io/chacha' with the domain you are using.
+2. Run deployment script:
+   ```sh
+   > npm run deploy
+   ```
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Author
+Young-Ho Kim (NAVER AI Lab) yghokim@younghokim.net, http://younghokim.net
